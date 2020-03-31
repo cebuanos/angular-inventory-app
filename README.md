@@ -1,6 +1,15 @@
-# AngularInventory
+# Angular Inventory App
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.0.
+
+The objective is develop a inventory app that will display the list of products.
+
+These are the following components needed:
+- Product App
+- Product Row
+- Product List
+- Product Department
+- Price Display
 
 ## Development server
 
